@@ -1,0 +1,44 @@
+在电脑上同时使用github 和 gitee
+--------------------------------
+1.下载安装git,官方网址https://git-scm.com/downloads;
+2.在github.com 和 gitee.com 上注册账号；
+3.在GitHub 和 gitee.com 新建仓库;
+4.在本地创建获取SSH KEY:
+01)GitHub 的钥匙
+ssh-keygen -t rsa -f ~/.ssh/id_rsa.github -C "user-github@qq.com"
+成功提示：Your identification has been saved in /c/Users/Administrator.PC-20170317AWWZ/.ssh/id_rsa.github.
+02)Gitee 的钥匙
+ssh-keygen -t rsa -f ~/.ssh/id_rsa.github -C "user-gitee@qq.com"
+成功提示：You've successfully authenticated, but GITEE.COM does not provide shell access.
+3)完成后会在~/.ssh / 目录下生成以下文件
+id_rsa.github
+id_rsa.github.pub
+id_rsa.gitee
+id_rsa.gitee.pub
+5. 多账号必须配置 config 文件(重点)
+若无 config 文件，则需创建 config 文件
+创建config文件：$ touch ~/.ssh/config
+6.打开/.ssh/，配置config文件
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa.github
+
+Host gitee.com
+    Port 22
+    HostName gitee.com
+    User git
+    IdentityFile ~/.ssh/id_rsa.gitee
+7.在github和gitee上分别添加SSH KEY
+8.测试是否连接成功
+ssh -T git@github.com
+ssh -T git@gitee.com
+9.克隆远程仓库到本地：
+1）指定克隆到本地的存放路径，比如将远程库克隆到D盘下gitpro文件夹下
+cd /D/gitpro
+2)克隆库到本地
+$ git clone https://github.com/alidev/test.git
+10.本地修改后，将文件push到远程仓库
+1）git add 文件名.后缀          //可以多个文件
+2）git commit -m "文件备注" 
+最后git push origin master，将你的代码提交远程仓库。

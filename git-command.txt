@@ -1,33 +1,41 @@
-Git ³£¼ûÃüÁî
+Git ³£ÓÃÃüÁî´óÈ«
 -----------------------------------------------------------------------------------------------------
 ÉèÖÃÓëÅäÖÃ
 ÓÐÁ½¸öÃüÁîÊ¹ÓÃµÃ×î¶àÁË£¬´ÓµÚÒ»´Îµ÷ÓÃ Git µ½Ã¿ÌìµÄÈÕ³£Î¢µ÷¼°²Î¿¼£¬Õâ¸öÁ½¸öÃüÁî¾ÍÊÇ£º config ºÍ help ÃüÁî¡£
 
-Git ×öµÄºÜ¶à¹¤×÷¶¼ÓÐÒ»¸öÄ¬ÈÏ·½Ê½¡£ ¶ÔÓÚ¾ø´ó¶àÊý¹¤×÷¶øÑÔ£¬Äã¿ÉÒÔ¸Ä±ä Git µÄÄ¬ÈÏ·½Ê½£¬»òÕß¸ù¾ÝÄãµÄÆ«ºÃÀ´ÉèÖÃ¡£ ÕâÐ©ÉèÖÃº­¸ÇÁËËùÓÐµÄÊÂ£¬´Ó¸æËß Git ÄãµÄÃû×Ö£¬µ½Ö¸¶¨Æ«ºÃµÄÖÕ¶ËÑÕÉ«£¬ÒÔ¼°ÄãÊ¹ÓÃµÄ±à¼­Æ÷¡£ ´ËÃüÁî»á´Ó¼¸¸öÌØ¶¨µÄÅäÖÃÎÄ¼þÖÐ¶ÁÈ¡ºÍÐ´ÈëÅäÖÃÖµ£¬ÒÔ±ãÄã¿ÉÒÔ´ÓÈ«¾Ö»òÕßÕë¶ÔÌØ¶¨µÄ²Ö¿âÀ´½øÐÐÉèÖÃ¡£
+Git ×öµÄºÜ¶à¹¤×÷¶¼ÓÐÒ»¸öÄ¬ÈÏ·½Ê½¡£ ¶ÔÓÚ¾ø´ó¶àÊý¹¤×÷¶øÑÔ£¬Äã¿ÉÒÔ¸Ä±ä Git µÄÄ¬ÈÏ·½Ê½£¬»òÕß¸ù¾ÝÄãµÄÆ«ºÃÀ´ÉèÖÃ¡£ 
+ÕâÐ©ÉèÖÃº­¸ÇÁËËùÓÐµÄÊÂ£¬´Ó¸æËß Git ÄãµÄÃû×Ö£¬µ½Ö¸¶¨Æ«ºÃµÄÖÕ¶ËÑÕÉ«£¬ÒÔ¼°ÄãÊ¹ÓÃµÄ±à¼­Æ÷¡£ ´ËÃüÁî»á´Ó¼¸¸öÌØ¶¨µÄÅäÖÃÎÄ¼þ
+ÖÐ¶ÁÈ¡ºÍÐ´ÈëÅäÖÃÖµ£¬ÒÔ±ãÄã¿ÉÒÔ´ÓÈ«¾Ö»òÕßÕë¶ÔÌØ¶¨µÄ²Ö¿âÀ´½øÐÐÉèÖÃ¡£
 
-git help ÃüÁîÓÃÀ´ÏÔÊ¾ÈÎºÎÃüÁîµÄ Git ×Ô´øÎÄµµ¡£ µ«ÊÇÎÒÃÇ½ö»áÔÚ´Ë¸½Â¼ÖÐÌáµ½´ó²¿·Ö×î³£ÓÃµÄÃüÁî£¬¶ÔÓÚÃ¿Ò»¸öÃüÁîµÄÍêÕûµÄ¿ÉÑ¡Ïî¼°±êÖ¾ÁÐ±í£¬Äã¿ÉÒÔËæÊ±ÔËÐÐ git help <command> ÃüÁîÀ´ÁË½â¡£
+git help ÃüÁîÓÃÀ´ÏÔÊ¾ÈÎºÎÃüÁîµÄ Git ×Ô´øÎÄµµ¡£ µ«ÊÇÎÒÃÇ½ö»áÔÚ´Ë¸½Â¼ÖÐÌáµ½´ó²¿·Ö×î³£ÓÃµÄÃüÁî£¬¶ÔÓÚÃ¿Ò»¸öÃüÁîµÄÍêÕûµÄ¿É
+Ñ¡Ïî¼°±êÖ¾ÁÐ±í£¬Äã¿ÉÒÔËæÊ±ÔËÐÐ git help <command> ÃüÁîÀ´ÁË½â¡£
 
 »ñÈ¡Óë´´½¨ÏîÄ¿
 ÓÐ¼¸ÖÖ·½Ê½»ñÈ¡Ò»¸ö Git ²Ö¿â¡£ Ò»ÖÖÊÇ´ÓÍøÂçÉÏ»òÕßÆäËûµØ·½¿½±´Ò»¸öÏÖÓÐµÄ²Ö¿â£¬ÁíÒ»ÖÖ¾ÍÊÇÔÚÒ»¸öÄ¿Â¼ÖÐ´´½¨Ò»¸öÐÂµÄ²Ö¿â¡£
 
 ÄãÖ»ÐèÒª¼òµ¥µØÔËÐÐ git init ¾Í¿ÉÒÔ½«Ò»¸öÄ¿Â¼×ª±ä³ÉÒ»¸ö Git ²Ö¿â£¬ÕâÑùÄã¾Í¿ÉÒÔ¿ªÊ¼¶ÔËü½øÐÐ°æ±¾¹ÜÀíÁË¡£
 
-git clone Êµ¼ÊÉÏÊÇÒ»¸ö·â×°ÁËÆäËû¼¸¸öÃüÁîµÄÃüÁî¡£ Ëü´´½¨ÁËÒ»¸öÐÂÄ¿Â¼£¬ÇÐ»»µ½ÐÂµÄÄ¿Â¼£¬È»ºó git init À´³õÊ¼»¯Ò»¸ö¿ÕµÄ Git ²Ö¿â£¬ È»ºóÎªÄãÖ¸¶¨µÄ URL Ìí¼ÓÒ»¸ö£¨Ä¬ÈÏÃû³ÆÎª origin µÄ£©Ô¶³Ì²Ö¿â£¨git remote add£©£¬ÔÙÕë¶ÔÔ¶³Ì²Ö¿âÖ´ÐÐ git fetch£¬×îºóÍ¨¹ý git checkout ½«Ô¶³Ì²Ö¿âµÄ×îÐÂÌá½»¼ì³öµ½±¾µØµÄ¹¤×÷Ä¿Â¼¡£
+git clone Êµ¼ÊÉÏÊÇÒ»¸ö·â×°ÁËÆäËû¼¸¸öÃüÁîµÄÃüÁî¡£ Ëü´´½¨ÁËÒ»¸öÐÂÄ¿Â¼£¬ÇÐ»»µ½ÐÂµÄÄ¿Â¼£¬È»ºó git init À´³õÊ¼»¯Ò»¸ö¿ÕµÄ 
+Git ²Ö¿â£¬ È»ºóÎªÄãÖ¸¶¨µÄ URL Ìí¼ÓÒ»¸ö£¨Ä¬ÈÏÃû³ÆÎª origin µÄ£©Ô¶³Ì²Ö¿â£¨git remote add£©£¬ÔÙÕë¶ÔÔ¶³Ì²Ö¿âÖ´ÐÐ git fetch£¬
+×îºóÍ¨¹ý git checkout ½«Ô¶³Ì²Ö¿âµÄ×îÐÂÌá½»¼ì³öµ½±¾µØµÄ¹¤×÷Ä¿Â¼¡£
 
 ¿ìÕÕ»ù´¡
 ¶ÔÓÚ»ù±¾µÄÔÝ´æÄÚÈÝ¼°Ìá½»µ½ÄãµÄÀúÊ·¼ÇÂ¼ÖÐµÄ¹¤×÷Á÷£¬Ö»ÓÐÉÙÊý»ù±¾µÄÃüÁî¡£
 
 git add
 
-ÃüÁî½«ÄÚÈÝ´Ó¹¤×÷Ä¿Â¼Ìí¼Óµ½ÔÝ´æÇø£¨»ò³ÆÎªË÷Òý£¨index£©Çø£©£¬ÒÔ±¸ÏÂ´ÎÌá½»¡£ µ± git commit ÃüÁîÖ´ÐÐÊ±£¬Ä¬ÈÏÇé¿öÏÂËüÖ»»á¼ì²éÔÝ´æÇøÓò£¬Òò´Ë git add ÊÇÓÃÀ´È·¶¨ÏÂÒ»´ÎÌá½»Ê±¿ìÕÕµÄÑù×ÓµÄ¡£
+ÃüÁî½«ÄÚÈÝ´Ó¹¤×÷Ä¿Â¼Ìí¼Óµ½ÔÝ´æÇø£¨»ò³ÆÎªË÷Òý£¨index£©Çø£©£¬ÒÔ±¸ÏÂ´ÎÌá½»¡£ µ± git commit ÃüÁîÖ´ÐÐÊ±£¬Ä¬ÈÏÇé¿öÏÂËüÖ»»á¼ì²é
+ÔÝ´æÇøÓò£¬Òò´Ë git add ÊÇÓÃÀ´È·¶¨ÏÂÒ»´ÎÌá½»Ê±¿ìÕÕµÄÑù×ÓµÄ¡£
 
 Õâ¸öÃüÁî¶ÔÓÚ Git À´ËµÌØ±ðµÄÖØÒª£¬ËùÒÔÔÚ±¾ÊéÖÐ±»ÎÞÊý´ÎµÄÌá¼°ºÍÊ¹ÓÃ¡£ ÎÒÃÇ½«¿ìËÙµÄ¹ýÒ»±éÒ»Ð©¿ÉÒÔ¿´µ½µÄ¶ÀÌØµÄÓÃ·¨¡£
 
 git status
 
-ÃüÁî½«ÎªÄãÕ¹Ê¾¹¤×÷Çø¼°ÔÝ´æÇøÓòÖÐ²»Í¬×´Ì¬µÄÎÄ¼þ¡£ ÕâÆäÖÐ°üº¬ÁËÒÑÐÞ¸Äµ«Î´ÔÝ´æ£¬»òÒÑ¾­ÔÝ´æµ«Ã»ÓÐÌá½»µÄÎÄ¼þ¡£ Ò»°ãÔÚËüÏÔÊ¾ÐÎÊ½ÖÐ£¬»á¸øÄãÕ¹Ê¾Ò»Ð©¹ØÓÚÈçºÎÔÚÕâÐ©ÔÝ´æÇøÓòÖ®¼äÒÆ¶¯ÎÄ¼þµÄÌáÊ¾¡£
+ÃüÁî½«ÎªÄãÕ¹Ê¾¹¤×÷Çø¼°ÔÝ´æÇøÓòÖÐ²»Í¬×´Ì¬µÄÎÄ¼þ¡£ ÕâÆäÖÐ°üº¬ÁËÒÑÐÞ¸Äµ«Î´ÔÝ´æ£¬»òÒÑ¾­ÔÝ´æµ«Ã»ÓÐÌá½»µÄÎÄ¼þ¡£ Ò»°ãÔÚËüÏÔÊ¾ÐÎÊ½
+ÖÐ£¬»á¸øÄãÕ¹Ê¾Ò»Ð©¹ØÓÚÈçºÎÔÚÕâÐ©ÔÝ´æÇøÓòÖ®¼äÒÆ¶¯ÎÄ¼þµÄÌáÊ¾¡£
 
-µ±ÐèÒª²é¿´ÈÎÒâÁ½¿ÃÊ÷µÄ²îÒìÊ±Äã¿ÉÒÔÊ¹ÓÃ git diff ÃüÁî¡£ ´ËÃüÁî¿ÉÒÔ²é¿´Äã¹¤×÷»·¾³ÓëÄãµÄÔÝ´æÇøµÄ²îÒì£¨git diff Ä¬ÈÏµÄ×ö·¨£©£¬ÄãÔÝ´æÇøÓòÓëÄã×îºóÌá½»Ö®¼äµÄ²îÒì£¨git diff ¨Cstaged£©£¬»òÕß±È½ÏÁ½¸öÌá½»¼ÇÂ¼µÄ²îÒì£¨git diff master branchB£©¡£
+µ±ÐèÒª²é¿´ÈÎÒâÁ½¿ÃÊ÷µÄ²îÒìÊ±Äã¿ÉÒÔÊ¹ÓÃ git diff ÃüÁî¡£ ´ËÃüÁî¿ÉÒÔ²é¿´Äã¹¤×÷»·¾³ÓëÄãµÄÔÝ´æÇøµÄ²îÒì£¨git diff Ä¬ÈÏµÄ×ö·¨£©£¬
+ÄãÔÝ´æÇøÓòÓëÄã×îºóÌá½»Ö®¼äµÄ²îÒì£¨git diff ¨Cstaged£©£¬»òÕß±È½ÏÁ½¸öÌá½»¼ÇÂ¼µÄ²îÒì£¨git diff master branchB£©¡£
 
 µ±Äã²»ÏëÊ¹ÓÃÄÚÖÃµÄ git diff ÃüÁîÊ±¡£git difftool ¿ÉÒÔÓÃÀ´¼òµ¥µØÆô¶¯Ò»¸öÍâ²¿¹¤¾ßÀ´ÎªÄãÕ¹Ê¾Á½¿ÃÊ÷Ö®¼äµÄ²îÒì¡£
 
@@ -35,7 +43,9 @@ git commit
 
 ÃüÁî½«ËùÓÐÍ¨¹ý git add ÔÝ´æµÄÎÄ¼þÄÚÈÝÔÚÊý¾Ý¿âÖÐ´´½¨Ò»¸ö³Ö¾ÃµÄ¿ìÕÕ£¬È»ºó½«µ±Ç°·ÖÖ§ÉÏµÄ·ÖÖ§Ö¸ÕëÒÆµ½ÆäÖ®ÉÏ¡£
 
-git reset ÃüÁîÖ÷ÒªÓÃÀ´¸ù¾ÝÄã´«µÝ¸ø¶¯×÷µÄ²ÎÊýÀ´Ö´ÐÐ³·Ïú²Ù×÷¡£ Ëü¿ÉÒÔÒÆ¶¯ HEAD Ö¸Õë²¢ÇÒ¿ÉÑ¡µÄ¸Ä±ä index »òÕßÔÝ´æÇø£¬Èç¹ûÄãÊ¹ÓÃ ¨Chard ²ÎÊýµÄ»°ÄãÉõÖÁ¿ÉÒÔ¸Ä±ä¹¤×÷Çø¡£ Èç¹û´íÎóµØÎªÕâ¸öÃüÁî¸½¼ÓºóÃæµÄ²ÎÊý£¬Äã¿ÉÄÜ»á¶ªÊ§ÄãµÄ¹¤×÷£¬ËùÒÔÔÚÊ¹ÓÃÇ°ÄãÒªÈ·¶¨ÄãÒÑ¾­ÍêÈ«Àí½âÁËËü¡£
+git reset ÃüÁîÖ÷ÒªÓÃÀ´¸ù¾ÝÄã´«µÝ¸ø¶¯×÷µÄ²ÎÊýÀ´Ö´ÐÐ³·Ïú²Ù×÷¡£ Ëü¿ÉÒÔÒÆ¶¯ HEAD Ö¸Õë²¢ÇÒ¿ÉÑ¡µÄ¸Ä±ä index »òÕßÔÝ´æÇø£¬Èç¹ûÄãÊ¹
+ÓÃ ¨Chard ²ÎÊýµÄ»°ÄãÉõÖÁ¿ÉÒÔ¸Ä±ä¹¤×÷Çø¡£ Èç¹û´íÎóµØÎªÕâ¸öÃüÁî¸½¼ÓºóÃæµÄ²ÎÊý£¬Äã¿ÉÄÜ»á¶ªÊ§ÄãµÄ¹¤×÷£¬ËùÒÔÔÚÊ¹ÓÃÇ°ÄãÒªÈ·¶¨ÄãÒÑ
+¾­ÍêÈ«Àí½âÁËËü¡£
 
 git rm
 
@@ -68,7 +78,8 @@ git merge
 
 git log
 
-ÃüÁîÓÃÀ´Õ¹Ê¾Ò»¸öÏîÄ¿µÄ¿É´ïÀúÊ·¼ÇÂ¼£¬´Ó×î½üµÄÌá½»¿ìÕÕÆð¡£ Ä¬ÈÏÇé¿öÏÂ£¬ËüÖ»ÏÔÊ¾Äãµ±Ç°ËùÔÚ·ÖÖ§µÄÀúÊ·¼ÇÂ¼£¬µ«ÊÇ¿ÉÒÔÏÔÊ¾²»Í¬µÄÉõÖÁ¶à¸öÍ·¼ÇÂ¼»ò·ÖÖ§ÒÔ¹©±éÀú¡£ ´ËÃüÁîÍ¨³£Ò²ÓÃÀ´ÔÚÌá½»¼ÇÂ¼¼¶±ðÏÔÊ¾Á½¸ö»ò¶à¸ö·ÖÖ§Ö®¼äµÄ²îÒì¡£
+ÃüÁîÓÃÀ´Õ¹Ê¾Ò»¸öÏîÄ¿µÄ¿É´ïÀúÊ·¼ÇÂ¼£¬´Ó×î½üµÄÌá½»¿ìÕÕÆð¡£ Ä¬ÈÏÇé¿öÏÂ£¬ËüÖ»ÏÔÊ¾Äãµ±Ç°ËùÔÚ·ÖÖ§µÄÀúÊ·¼ÇÂ¼£¬µ«ÊÇ¿ÉÒÔÏÔÊ¾²»Í¬µÄÉõÖÁ
+¶à¸öÍ·¼ÇÂ¼»ò·ÖÖ§ÒÔ¹©±éÀú¡£ ´ËÃüÁîÍ¨³£Ò²ÓÃÀ´ÔÚÌá½»¼ÇÂ¼¼¶±ðÏÔÊ¾Á½¸ö»ò¶à¸ö·ÖÖ§Ö®¼äµÄ²îÒì¡£
 
 git stash
 
@@ -79,7 +90,8 @@ git tag
 ÃüÁîÓÃÀ´Îª´úÂëÀúÊ·¼ÇÂ¼ÖÐµÄÄ³Ò»¸öµãÖ¸¶¨Ò»¸öÓÀ¾ÃµÄÊéÇ©¡£ Ò»°ãÀ´ËµËüÓÃÓÚ·¢²¼Ïà¹ØÊÂÏî¡£
 
 ÏîÄ¿·ÖÏíÓë¸üÐÂ
-ÔÚ Git ÖÐÃ»ÓÐ¶àÉÙ·ÃÎÊÍøÂçµÄÃüÁî£¬¼¸ºõËùÒÔµÄÃüÁî¶¼ÊÇÔÚ²Ù×÷±¾µØµÄÊý¾Ý¿â¡£ µ±ÄãÏëÒª·ÖÏíÄãµÄ¹¤×÷£¬»òÕß´ÓÆäËûµØ·½À­È¡±ä¸üÊ±£¬ÕâÓÐ¼¸¸ö´¦ÀíÔ¶³Ì²Ö¿âµÄÃüÁî¡£
+ÔÚ Git ÖÐÃ»ÓÐ¶àÉÙ·ÃÎÊÍøÂçµÄÃüÁî£¬¼¸ºõËùÒÔµÄÃüÁî¶¼ÊÇÔÚ²Ù×÷±¾µØµÄÊý¾Ý¿â¡£ µ±ÄãÏëÒª·ÖÏíÄãµÄ¹¤×÷£¬»òÕß´ÓÆäËûµØ·½À­È¡±ä¸üÊ±£¬ÕâÓÐ¼¸
+¸ö´¦ÀíÔ¶³Ì²Ö¿âµÄÃüÁî¡£
 
 git fetch
 
@@ -91,11 +103,13 @@ git pull
 
 git push
 
-ÃüÁîÓÃÀ´ÓëÁíÒ»¸ö²Ö¿âÍ¨ÐÅ£¬¼ÆËãÄã±¾µØÊý¾Ý¿âÓëÔ¶³Ì²Ö¿âµÄ²îÒì£¬È»ºó½«²îÒìÍÆËÍµ½ÁíÒ»¸ö²Ö¿âÖÐ¡£ ËüÐèÒªÓÐÁíÒ»¸ö²Ö¿âµÄÐ´È¨ÏÞ£¬Òò´ËÕâÍ¨³£ÊÇÐèÒªÑéÖ¤µÄ¡£
+ÃüÁîÓÃÀ´ÓëÁíÒ»¸ö²Ö¿âÍ¨ÐÅ£¬¼ÆËãÄã±¾µØÊý¾Ý¿âÓëÔ¶³Ì²Ö¿âµÄ²îÒì£¬È»ºó½«²îÒìÍÆËÍµ½ÁíÒ»¸ö²Ö¿âÖÐ¡£ ËüÐèÒªÓÐÁíÒ»¸ö²Ö¿âµÄÐ´È¨ÏÞ£¬Òò´ËÕâÍ¨
+³£ÊÇÐèÒªÑéÖ¤µÄ¡£
 
 git remote
 
-ÃüÁîÊÇÒ»¸öÊÇÄãÔ¶³Ì²Ö¿â¼ÇÂ¼µÄ¹ÜÀí¹¤¾ß¡£ ËüÔÊÐíÄã½«Ò»¸ö³¤µÄ URL ±£´æ³ÉÒ»¸ö¼òÐ´µÄ¾ä±ú£¬ÀýÈç origin £¬ÕâÑùÄã¾Í¿ÉÒÔ²»ÓÃÃ¿´Î¶¼ÊäÈëËûÃÇÁË¡£ Äã¿ÉÒÔÓÐ¶à¸öÕâÑùµÄ¾ä±ú£¬git remote ¿ÉÒÔÓÃÀ´Ìí¼Ó£¬ÐÞ¸Ä£¬¼°É¾³ýËüÃÇ¡£
+ÃüÁîÊÇÒ»¸öÊÇÄãÔ¶³Ì²Ö¿â¼ÇÂ¼µÄ¹ÜÀí¹¤¾ß¡£ ËüÔÊÐíÄã½«Ò»¸ö³¤µÄ URL ±£´æ³ÉÒ»¸ö¼òÐ´µÄ¾ä±ú£¬ÀýÈç origin £¬ÕâÑùÄã¾Í¿ÉÒÔ²»ÓÃÃ¿´Î¶¼ÊäÈëËûÃÇÁË¡£ 
+Äã¿ÉÒÔÓÐ¶à¸öÕâÑùµÄ¾ä±ú£¬git remote ¿ÉÒÔÓÃÀ´Ìí¼Ó£¬ÐÞ¸Ä£¬¼°É¾³ýËüÃÇ¡£
 
 git archive
 
@@ -103,7 +117,8 @@ git archive
 
 git submodule
 
-ÃüÁîÓÃÀ´¹ÜÀíÒ»¸ö²Ö¿âµÄÆäËûÍâ²¿²Ö¿â¡£ Ëü¿ÉÒÔ±»ÓÃÔÚ¿â»òÕßÆäËûÀàÐÍµÄ¹²Ïí×ÊÔ´ÉÏ¡£ submodule ÃüÁîÓÐ¼¸¸ö×ÓÃüÁî, Èç£¨add¡¢update¡¢sync µÈµÈ£©ÓÃÀ´¹ÜÀíÕâÐ©×ÊÔ´¡£¡¢
+ÃüÁîÓÃÀ´¹ÜÀíÒ»¸ö²Ö¿âµÄÆäËûÍâ²¿²Ö¿â¡£ Ëü¿ÉÒÔ±»ÓÃÔÚ¿â»òÕßÆäËûÀàÐÍµÄ¹²Ïí×ÊÔ´ÉÏ¡£ submodule ÃüÁîÓÐ¼¸¸ö×ÓÃüÁî, Èç£¨add¡¢update¡¢sync µÈµÈ£©
+ÓÃÀ´¹ÜÀíÕâÐ©×ÊÔ´¡£¡¢
 
 ¼ì²éÓë±È½Ï
 git show
@@ -112,11 +127,13 @@ git show ÃüÁî¿ÉÒÔÒÔÒ»ÖÖ¼òµ¥µÄÈËÀà¿É¶ÁµÄ·½Ê½À´ÏÔÊ¾Ò»¸ö Git ¶ÔÏó¡£ ÄãÒ»°ãÊ¹ÓÃ´ËÃüÁ
 
 git shortlog
 
-git shortlog ÊÇÒ»¸öÓÃÀ´¹éÄÉ git log µÄÊä³öµÄÃüÁî¡£ Ëü¿ÉÒÔ½ÓÊÜºÜ¶àÓë git log ÏàÍ¬µÄÑ¡Ïî£¬µ«ÊÇ´ËÃüÁî²¢²»»áÁÐ³öËùÓÐµÄÌá½»£¬¶øÊÇÕ¹Ê¾Ò»¸ö¸ù¾Ý×÷Õß·Ö×éµÄÌá½»¼ÇÂ¼µÄ¸ÅÀ¨ÐÔÐÅÏ¢
+git shortlog ÊÇÒ»¸öÓÃÀ´¹éÄÉ git log µÄÊä³öµÄÃüÁî¡£ Ëü¿ÉÒÔ½ÓÊÜºÜ¶àÓë git log ÏàÍ¬µÄÑ¡Ïî£¬µ«ÊÇ´ËÃüÁî²¢²»»áÁÐ³öËùÓÐµÄÌá½»£¬¶øÊÇÕ¹Ê¾Ò»¸ö¸ù¾Ý
+×÷Õß·Ö×éµÄÌá½»¼ÇÂ¼µÄ¸ÅÀ¨ÐÔÐÅÏ¢
 
 git describe
 
-git describe ÃüÁîÓÃÀ´½ÓÊÜÈÎºÎ¿ÉÒÔ½âÎö³ÉÒ»¸öÌá½»µÄ¶«Î÷£¬È»ºóÉú³ÉÒ»¸öÈËÀà¿É¶ÁµÄ×Ö·û´®ÇÒ²»¿É±ä¡£ ÕâÊÇÒ»ÖÖ»ñµÃÒ»¸öÌá½»µÄÃèÊöµÄ·½Ê½£¬Ëü¸úÒ»¸öÌá½»µÄ SHA-1 ÖµÒ»ÑùÊÇÎÞÆçÒå£¬µ«ÊÇ¸ü¾ß¿É¶ÁÐÔ¡£
+git describe ÃüÁîÓÃÀ´½ÓÊÜÈÎºÎ¿ÉÒÔ½âÎö³ÉÒ»¸öÌá½»µÄ¶«Î÷£¬È»ºóÉú³ÉÒ»¸öÈËÀà¿É¶ÁµÄ×Ö·û´®ÇÒ²»¿É±ä¡£ ÕâÊÇÒ»ÖÖ»ñµÃÒ»¸öÌá½»µÄÃèÊöµÄ·½Ê½£¬Ëü¸úÒ»¸ö
+Ìá½»µÄ SHA-1 ÖµÒ»ÑùÊÇÎÞÆçÒå£¬µ«ÊÇ¸ü¾ß¿É¶ÁÐÔ¡£
 
 µ÷ÊÔ
 Git ÓÐÒ»Ð©ÃüÁî¿ÉÒÔÓÃÀ´°ïÄãµ÷ÊÔÄã´úÂëÖÐµÄÎÊÌâ¡£ °üÀ¨ÕÒ³öÊÇÊ²Ã´Ê±ºò£¬ÊÇË­ÒýÈëµÄ±ä¸ü¡£
@@ -126,8 +143,8 @@ git bisect
 git bisect ¹¤¾ßÊÇÒ»¸ö·Ç³£ÓÐÓÃµÄµ÷ÊÔ¹¤¾ß£¬ËüÍ¨¹ý×Ô¶¯½øÐÐÒ»¸ö¶þ·Ö²éÕÒÀ´ÕÒµ½ÄÄÒ»¸öÌØ¶¨µÄÌá½»ÊÇµ¼ÖÂ bug »òÕßÎÊÌâµÄµÚÒ»¸öÌá½»¡£
 
 git blame
-
-git blame ÃüÁî±ê×¢ÈÎºÎÎÄ¼þµÄÐÐ£¬Ö¸³öÎÄ¼þµÄÃ¿Ò»ÐÐµÄ×îºóµÄ±ä¸üµÄÌá½»¼°Ë­ÊÇÄÇÒ»¸öÌá½»µÄ×÷Õß¡£ µ±ÄãÒªÕÒÄÇ¸öÈËÈ¥Ñ¯ÎÊ¹ØÓÚÕâ¿éÌØÊâ´úÂëµÄÐÅÏ¢Ê±Õâ»áºÜÓÐÓÃ¡£
+git blame ÃüÁî±ê×¢ÈÎºÎÎÄ¼þµÄÐÐ£¬Ö¸³öÎÄ¼þµÄÃ¿Ò»ÐÐµÄ×îºóµÄ±ä¸üµÄÌá½»¼°Ë­ÊÇÄÇÒ»¸öÌá½»µÄ×÷Õß¡£ µ±ÄãÒªÕÒÄÇ¸öÈËÈ¥Ñ¯ÎÊ¹ØÓÚÕâ¿éÌØÊâ´úÂëµÄÐÅÏ¢Ê±Õâ
+»áºÜÓÐÓÃ¡£
 
 git grep
 
@@ -138,7 +155,8 @@ Git ÖÐµÄÒ»Ð©ÃüÁîÊÇÒÔÒýÈëµÄ±ä¸ü¼´Ìá½»ÕâÑùµÄ¸ÅÄîÎªÖÐÐÄµÄ£¬ÕâÑùÒ»ÏµÁÐµÄÌá½»£¬¾ÍÊÇÒ»
 
 git cherry-pick
 
-git cherry-pick ÃüÁîÓÃÀ´»ñµÃÔÚµ¥¸öÌá½»ÖÐÒýÈëµÄ±ä¸ü£¬È»ºó³¢ÊÔ½«×÷ÎªÒ»¸öÐÂµÄÌá½»ÒýÈëµ½Äãµ±Ç°·ÖÖ§ÉÏ¡£ ´ÓÒ»¸ö·ÖÖ§µ¥¶ÀÒ»¸ö»òÕßÁ½¸öÌá½»¶ø²»ÊÇºÏ²¢Õû¸ö·ÖÖ§µÄËùÓÐ±ä¸üÊÇ·Ç³£ÓÐÓÃµÄ¡£
+git cherry-pick ÃüÁîÓÃÀ´»ñµÃÔÚµ¥¸öÌá½»ÖÐÒýÈëµÄ±ä¸ü£¬È»ºó³¢ÊÔ½«×÷ÎªÒ»¸öÐÂµÄÌá½»ÒýÈëµ½Äãµ±Ç°·ÖÖ§ÉÏ¡£ ´ÓÒ»¸ö·ÖÖ§µ¥¶ÀÒ»¸ö»òÕßÁ½¸öÌá½»¶ø²»ÊÇºÏ²¢
+Õû¸ö·ÖÖ§µÄËùÓÐ±ä¸üÊÇ·Ç³£ÓÐÓÃµÄ¡£
 
 git rebase
 
@@ -173,7 +191,8 @@ git send-mail ÃüÁîÓÃÀ´Í¨¹ýÓÊ¼þ·¢ËÍÄÇÐ©Ê¹ÓÃ git format-patch Éú³ÉµÄ²¹¶¡¡£
 
 git request-pull
 
-git request-pull ÃüÁîÖ»ÊÇ¼òµ¥µÄÓÃÀ´Éú³ÉÒ»¸ö¿ÉÍ¨¹ýÓÊ¼þ·¢ËÍ¸øÄ³¸öÈËµÄÊ¾ÀýÐÅÏ¢Ìå¡£ Èç¹ûÄãÔÚ¹«¹²·þÎñÆ÷ÉÏÓÐÒ»¸ö·ÖÖ§£¬²¢ÇÒÏëÈÃ±ðÈËÖªµÀÈçºÎ¼¯³ÉÕâÐ©±ä¸ü£¬¶ø²»ÓÃÍ¨¹ýÓÊ¼þ·¢ËÍ²¹¶¡£¬Äã¾Í¿ÉÒÔÖ´ÐÐ´ËÃüÁîµÄÊä³ö·¢ËÍ¸øÕâ¸öÄãÏëÀ­È¡±ä¸üµÄÈË¡£
+git request-pull ÃüÁîÖ»ÊÇ¼òµ¥µÄÓÃÀ´Éú³ÉÒ»¸ö¿ÉÍ¨¹ýÓÊ¼þ·¢ËÍ¸øÄ³¸öÈËµÄÊ¾ÀýÐÅÏ¢Ìå¡£ Èç¹ûÄãÔÚ¹«¹²·þÎñÆ÷ÉÏÓÐÒ»¸ö·ÖÖ§£¬²¢ÇÒÏëÈÃ±ðÈËÖªµÀÈçºÎ¼¯³ÉÕâÐ©±ä¸ü£¬
+¶ø²»ÓÃÍ¨¹ýÓÊ¼þ·¢ËÍ²¹¶¡£¬Äã¾Í¿ÉÒÔÖ´ÐÐ´ËÃüÁîµÄÊä³ö·¢ËÍ¸øÕâ¸öÄãÏëÀ­È¡±ä¸üµÄÈË¡£
 
 Íâ²¿ÏµÍ³
 Git ÓÐÒ»Ð©¿ÉÒÔÓëÆäËûµÄ°æ±¾¿ØÖÆÏµÍ³¼¯³ÉµÄÃüÁî¡£

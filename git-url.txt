@@ -4,6 +4,8 @@ https://baike.so.com/doc/941204-7765041.html
 
 Git官方下载
 https://git-scm.com/downloads
+https://gitforwindows.org/
+
 Git安装配置
 https://gitee.com/help/articles/4106
 https://www.w3cschool.cn/git/git-install-setup.html

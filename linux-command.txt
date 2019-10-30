@@ -1,0 +1,19 @@
+Linux常用指令大全
+-----------------------------------------------------------------------
+cd ..                             返回上一级目录(cd 与 ..之间有一空格)
+cd /D/git                         切换到目录(如D盘下的 git 目录)
+pwd                               显示当前路径
+ls                                显示当前目录下的所有文件和文件夹
+ls -l                             列出文件详细信息(list)
+ls -a                             列出当前目录下所有文件及目录，包括隐藏的(all)
+mkdir folder                      创建文件夹
+rm -r folder/                     删除文件夹子目录文件
+touch demo.txt                    创建demo文件
+rm demo.txt                       删除demo文件
+rm -f demo.tx                     强制删除文件
+rmdir                             删除空目录
+cat demo.txt                      查看文件内容
+mv test.txt demo.txt              重命名text文件名为demo
+mv /u /v/n                        把u目录移动到v目录下，并重命名为n
+cp file /usr/file1                将文件file复制到目录/usr下，并改名为file1
+cp -r test/ newtest               将当前目录"test/"下的所有文件复制到新目录"newtest"下

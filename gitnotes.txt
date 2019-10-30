@@ -1,4 +1,4 @@
-安装git，windows下安装gitbash自带git，linux系统sudo apt-get install -g git
+﻿安装git，windows下安装gitbash自带git，linux系统sudo apt-get install -g git
 --------------------------------------------------------------------------
 1、在本地创建获取SSH KEY
 $ ssh-keygen -t rsa -C "alidev@qq.com"
@@ -281,6 +281,41 @@ git tag -a v0.1 -m "version 0.1 released" f0f5b10  //f0f5b10为指定的commit i
 命令git tag -d <tagname>可以删除一个本地标签；
 命令git push origin :refs/tags/<tagname>可以删除一个远程标签。
 
+
+删除远程仓库文件夹或文件
+cd 切换到项目目录下
+$ git pull origin master               //将远程仓库里面的项目拉下来
+$ dir                                  //查看有哪些文件夹
+$ git rm -r --cached folder
+            //删除文件夹,folder为要删除的文件名
+$ git commit -m 'delete folder
+'        //提交,添加操作说明
+$ git push -u origin master           //将本次更改更新到github项目上去
+
+
+工作区创建文件/文件夹
+cd /D/gitpro/test              //切换到工作区目录下
+touch file.txt                 //创建file.txt文件
+rm file.txt                    //删除file.txt文件
+mkdir public                   //创建public目录
+rm -r public/                  //删除public目录
+
+
+文件重命名
+1.重命名本地的文件，例如将test.txt 重命名为readme.txt
+git mv test.txt readme.txt       //重命名并提交
+查看本地目录文件，已被重命名
+2.查看状态:git status
+有下面信息表示重命名成功
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        renamed:    test.txt -> readme.txt
+3.git commit -m "文件重命名"
+4.git push origin master
+5.查看远程仓库文件，已重命名成功。
+
+------------------------------------------------------------------------------------
 
 在GitHub如何参与别人项目呢？
 比如bootstrap项目，你可以访问它的项目主页https://github.com/twbs/bootstrap，点“Fork”就在自己的账号下克隆了一个bootstrap仓库，

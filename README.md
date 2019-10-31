@@ -15,11 +15,11 @@ git快速入门、git使用指南，让你从一个 Git 初学者成为 Git 专�
 
 
       .telbar ul li a strong {
-      display: block;
-      position: relative;
-      top: 0px;
-      left: 0;
-      font-weight: normal;
+         display: block;
+         position: relative;
+         top: 0px;
+         left: 0;
+         font-weight: normal;
       }
 
 

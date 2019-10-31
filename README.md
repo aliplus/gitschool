@@ -23,13 +23,13 @@ git快速入门、git使用指南，让你从一个 Git 初学者成为 Git 专�
 ```
 
 此处有空行
-```
+
     #include  <stdio.h>`
     int main(void)`
     {
         printf("Hello world\n");
     }
-```
+
 
 > gitschool.txt     //
 > 将本地项目推送到github  

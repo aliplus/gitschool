@@ -22,14 +22,12 @@ git快速入门、git使用指南，让你从一个 Git 初学者成为 Git 专�
       }
 ```
 
-      css
-      .telbar ul li a strong {
-         display: block;
-         position: relative;
-         top: 0px;
-         left: 0;
-         font-weight: normal;
-      }
+此处有空行
+    #include  <stdio.h>`
+    int main(void)`
+    {
+        printf("Hello world\n");
+    }
 
 > gitschool.txt     //
 > 将本地项目推送到github  

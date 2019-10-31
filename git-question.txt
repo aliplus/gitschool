@@ -1,0 +1,14 @@
+1、若Git Bash运行命令后，一直出现冒号：按Q可直接退出，切换至$。
+1）q  退出编辑，如果文本内容被修改过，则会报错
+2）q! 强制退出编辑，如果文本内容被修改过，会丢弃此次的修改
+3）x  退出编辑并保存
+
+2、Please enter a commit message to explain why this merge is necessary.
+出现提示的原因：因为本地库的代码跟远程库有冲突需要合并,处理方法
+1）按键盘字母 i 进入insert(输入)模式,编辑必要的注释 说明合并的原因,编辑的内容会在第一行显示,也可不修改
+2）按"Esc"
+3）输入":wq",按回车键即可
+
+3、Administrator@PC-20190919AWWZ MINGW32 /D/gitpro/gitschool (master|REBASE-i)
+使用git rebase后，(master前有REBASE-i)
+输入：git rebase --abort     //回到rebase操作之前的状态

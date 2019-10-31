@@ -25,6 +25,7 @@ https://www.liaoxuefeng.com/wiki/896043488029600
 Git命令大全
 https://www.jianshu.com/p/729206b5770a
 https://www.oschina.net/question/565065_86024
+http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
 https://atts.w3cschool.cn/attachments/image/20170206/1486348362884912.jpg
 -----------------------------------------------------
 国内外代码托管平台

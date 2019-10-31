@@ -8,6 +8,7 @@ git快速入门、git使用指南，让你从一个 Git 初学者成为 Git 专�
 ## git使用指南  
 1.&ensp;[git 学习笔记](https://github.com/aliplus/gitschool/blob/master/gitnotes.txt)  
 
+### Linux常用指令大全
 gitschool.txt     //
 将本地项目推送到github  
 将本地项目推送到gitee  

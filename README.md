@@ -5,8 +5,8 @@ Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个�
 
 git快速入门、git使用指南，让你从一个 Git 初学者成为 Git 专家。  
 
-##git使用指南  
-|-----git 学习笔记&emsp;[gitnotes.txt](https://github.com/aliplus/gitschool/blob/master/gitnotes.txt)  
+## git使用指南  
+1. &emsp;[git 学习笔记](https://github.com/aliplus/gitschool/blob/master/gitnotes.txt)  
 
 gitschool.txt     //
 将本地项目推送到github  

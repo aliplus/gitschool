@@ -19,10 +19,10 @@ git快速入门、git使用指南，让你从一个 Git 初学者成为 Git 专�
 将本地项目推送到gitee  
 将小程序推送到github/gitee/微信开发者代码管理平台  
 git学习资源荐  
------------------------------------
-..................
-*                                *
+
 ```python
 #!/usr/bin/env python3
 print("Hello, World!");
 ```
+This is [an example][id] reference-style link.
+[id]: http://example.com/  "Optional Title Here"

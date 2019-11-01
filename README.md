@@ -25,6 +25,9 @@ git学习资源荐
 print("Hello, World!");
 ```
 
+This is [an example][id] reference-style link.
+[id]: http://example.com/  "Optional Title Here"
+
 
 I get 10 times more traffic from [Google][1] than from
 [Yahoo][2] or [MSN][3].

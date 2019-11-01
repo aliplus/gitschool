@@ -19,7 +19,6 @@ git快速入门、git使用指南，让你从一个 Git 初学者成为 Git 专�
 
 
 ***************************
-> gitschool.txt     //
 > 将本地项目推送到github  
 将本地项目推送到gitee  
 将小程序推送到github/gitee/微信开发者代码管理平台  

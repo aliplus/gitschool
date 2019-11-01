@@ -42,3 +42,11 @@ I get 10 times more traffic from [Google][1] than from
 **粗体**
 ***加粗斜体***
 ~~删除线~~
+
+
+*single asterisks*
+_single underscores_
+
+**double asterisks**
+__double underscores__
+
